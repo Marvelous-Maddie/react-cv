@@ -2,38 +2,8 @@ html {
   box-sizing: border-box;
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
 body {
-  margin: 0 auto;
   font-family: 'Segoe UI', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-.Header {
-  height: 6rem;
-  display: flex;
-  justify-content: space-between;
-  color: white;
-  background-color: black;
-}
-
-h1 {
-  display: inline;
-  margin-left: 21.4333px;
-}
-
-nav {
-  display: inline-flex;
-  margin-right: 21.4333px;
-}
-
-a {
-  font-size: 1rem;
-  color: white;
-  text-decoration: none;
-  margin: auto 2rem auto 2rem;
 }
