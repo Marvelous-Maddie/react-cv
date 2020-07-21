@@ -4,9 +4,9 @@ import { faBars } from '@fortawesome/free-solid-svg-icons';
 
 const Header = (handleClick) => {
   return (
-    <header>
+    <header id="home">
       <nav className="navbar navbar-expand-lg fixed-top navbar-dark bg-dark shadow-sm">
-        <a class="navbar-brand mr-5" href="#">
+        <a class="navbar-brand mr-5" href="#home" style={{color: "#b30059"}}>
           <h1>Madlen Engel</h1>
         </a>
 
@@ -15,20 +15,20 @@ const Header = (handleClick) => {
         </button>
 
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-        <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
-          <li className="nav-item h4">
+        <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
+          <li className="nav-item mr-4 h4">
             <a className="nav-link" href="#about">About</a>
           </li>
-          <li className="nav-item h4">
+          <li className="nav-item mr-4 h4">
             <a className="nav-link" href="#education">Education</a>
           </li>
-          <li className="nav-item h4">
+          <li className="nav-item mr-4 h4">
             <a className="nav-link" href="#experience">Job experience</a>
           </li>
-          <li className="nav-item h4">
+          <li className="nav-item mr-4 h4">
             <a className="nav-link" href="#skills">Skills</a>
           </li>
-          <li className="nav-item h4">
+          <li className="nav-item mr-4 h4">
             <a className="nav-link" href="#contact">Contact</a>
           </li>
         </ul>

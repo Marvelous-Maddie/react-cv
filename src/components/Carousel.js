@@ -13,7 +13,7 @@ const Carousel = () => {
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="./assets/0022_Engel_SW_2_21052019.jpg" class="d-block w-100" alt="Profile Picture" />
+          <img src="../assets/0022_Engel_SW_2_21052019.jpg" class="d-block w-100" alt="Profile" />
         </div>
         <div class="carousel-item">
           <img src="https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275_960_720.jpg" class="d-block w-100" alt="Software Development" />
