@@ -1,11 +1,11 @@
 import React from 'react';
 
 const Quote = () => {
-  return (
+    return (
     <div class="container-fluid p-5 bg-dark shadow-sm" id="experience">
       <blockquote class="blockquote text-right">
-        <h3 class="mb-0" style={{color: "#b30059"}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</h3>
-        <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+        <h3 class="mb-0" style={{color: "#b30059"}}>I want to look back on my career and be proud of the work, and be proud that I tried everything.</h3>
+        <footer class="blockquote-footer">Jon Stewart</footer>
       </blockquote>
     </div>
   )

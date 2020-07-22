@@ -5,7 +5,7 @@ import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 
 const Contact = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm" id="contact">
       <ul class="navbar-nav mx-auto">
         <li class="nav-item text-center mx-5 h5">
           <a class="nav-link" href="mailto:engel.madlen@googlemail.com"><FontAwesomeIcon icon={faEnvelope} /> Send me a message</a>
