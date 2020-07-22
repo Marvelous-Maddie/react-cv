@@ -5,16 +5,16 @@ import { faBars } from '@fortawesome/free-solid-svg-icons';
 const Header = (handleClick) => {
   return (
     <header id="home">
-      <nav className="navbar navbar-expand-lg fixed-top navbar-dark bg-dark shadow-sm">
+      <nav className="navbar navbar-expand-lg sticky-top navbar-dark bg-dark shadow-sm">
         <a class="navbar-brand mr-5" href="#home" style={{color: "#b30059"}}>
           <h1>Madlen Engel</h1>
         </a>
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
           <FontAwesomeIcon icon={faBars} />
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <div class="collapse navbar-collapse" id="navbarToggler">
         <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
           <li className="nav-item mr-4 h4">
             <a className="nav-link" href="#about">About</a>
