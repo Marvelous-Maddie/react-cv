@@ -6,7 +6,7 @@ const Header = (handleClick) => {
   return (
     <header id="home">
       <nav className="navbar navbar-expand-lg sticky-top navbar-dark bg-dark shadow-sm">
-        <a class="navbar-brand mr-5" href="#home" style={{color: "#b30059"}}>
+        <a class="navbar-brand" href="#home" style={{color: "#b30059"}}>
           <h1>Madlen Engel</h1>
         </a>
 
