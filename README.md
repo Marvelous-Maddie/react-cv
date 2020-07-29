@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CV Madlen Engel
+
+## Technologies
+
+- [Create React App](https://github.com/facebook/create-react-app).
+- [Bootstrap4.5] (https://getbootstrap.com/)
+- [Fontawsome Icons] (https://fontawesome.com/icons?d=gallery)
 
 ## Available Scripts
 
