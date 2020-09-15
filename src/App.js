@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Carousel from "./components/Carousel";
 import Contact from "./components/Contact";
 import About from "./components/About";
+import Portfolio from "./components/Portfolio";
 import Education from "./components/Education";
 import Quote from "./components/Quote";
 import Experience from "./components/Experience";
@@ -16,6 +17,7 @@ function App() {
       <Carousel />
       <Contact />
       <About />
+      <Portfolio />
       <Education />
       <Quote />
       <Experience />
