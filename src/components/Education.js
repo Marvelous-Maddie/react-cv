@@ -5,6 +5,7 @@ const Education = () => {
   <div className="container-fluid p-5 shadow-sm" id="education" style={{backgroundColor: "lightgrey"}}>
     <h2 className="text-center" style={{color: "#b30059"}}>Education</h2>
 
+
     {/*WBS Coding School*/}
     <dl className="row justify-content-center mx-5 mt-5 mb-2">
       <dt className="col-6">
@@ -12,7 +13,7 @@ const Education = () => {
       </dt>
       <dd className="col-6">
         <a className="d-flex justify-content-start" data-toggle="collapse" href="#collapseEducation1" style={{fontWeight: "bold", color: "black"}} role="button" aria-expanded="false" aria-controls="collapseEducation1">
-          WBS Coding School, Berlin
+          <span>WBS Coding School, Berlin <small>(click to open)</small></span>
         </a>
         <div className="collapse" id="collapseEducation1">
           <ul>

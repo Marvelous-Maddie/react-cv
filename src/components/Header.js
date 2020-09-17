@@ -20,6 +20,9 @@ const Header = (handleClick) => {
             <a className="nav-link" href="#about">About</a>
           </li>
           <li className="nav-item mr-4 h4">
+            <a className="nav-link" href="#about">Portfolio</a>
+          </li>
+          <li className="nav-item mr-4 h4">
             <a className="nav-link" href="#education">Education</a>
           </li>
           <li className="nav-item mr-4 h4">

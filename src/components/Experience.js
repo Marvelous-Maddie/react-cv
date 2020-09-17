@@ -12,7 +12,7 @@ const Experience = () => {
       </dt>
       <dd className="col-6">
         <a className="d-flex justify-content-start" data-toggle="collapse" href="#collapseExperience1" style={{fontWeight: "bold", color: "black"}} role="button" aria-expanded="false" aria-controls="collapseExperience1">
-          Insiders Technologies GmbH, Kaiserslautern
+          <span>Insiders Technologies GmbH, Kaiserslautern <small>(click to open)</small></span>
         </a>
         <div className="collapse" id="collapseExperience1">
           <ul>
