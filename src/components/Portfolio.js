@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faYoutube } from '@fortawesome/free-brands-svg-icons';
 import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons';
 
 const Portfolio = () => {
@@ -16,6 +16,7 @@ const Portfolio = () => {
           <h5 style={{color: "white", textDecoration: "underline"}}>
             The Book Club
             <a className="ml-4" href="https://the-book-club-2408.web.app/" style={{color: "#b30059"}}><FontAwesomeIcon icon={faExternalLinkAlt} /></a>
+            <a className="ml-4" href="https://youtu.be/PhmN60Yi89I?t=900" style={{color: "#b30059"}}><FontAwesomeIcon icon={faYoutube} /></a>
           </h5>
           <ul style={{width: "18rem", color: "white", marginLeft: "-1.2rem"}}>
             <li>Final project for the WBS Coding School</li>
