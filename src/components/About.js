@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
   return (
   <div className="container-fluid text-center p-5 shadow-sm" id="about">
-    <h2 style={{color: "#b30059"}}>About</h2>
+    <h2 style={{color: "#e87a2a"}}>About</h2>
     <div className="container text-left mt-5">
         <p>Those, who don’t dream of flying, will grow no wings…</p>
         <p>I always thought my dream was to be a traditional archaeologist, unravelling the past in the field and at the desk.

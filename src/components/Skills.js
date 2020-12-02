@@ -6,7 +6,7 @@ import { faMicrosoft, faAdobe, faHtml5, faCss3, faBootstrap, faJsSquare, faReact
 const Skills = () => {
   return (
   <div className="container-fluid text-center p-5 shadow-sm" id="skills">
-    <h2 style={{color: "#b30059"}}>Skills</h2>
+    <h2 style={{color: "#e87a2a"}}>Skills</h2>
     <div className="d-flex justify-content-center flex-wrap mx-5">
 
     {/*MS Office*/}

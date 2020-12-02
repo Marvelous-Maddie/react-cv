@@ -6,7 +6,7 @@ import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons';
 const Portfolio = () => {
   return (
   <div className="container-fluid p-5 bg-dark shadow-sm" id="portfolio">
-    <h2 className="text-center" style={{color: "#b30059"}}>Portfolio</h2>
+    <h2 className="text-center" style={{color: "#e87a2a"}}>Portfolio</h2>
     <div className="d-flex justify-content-center flex-wrap mx-5">
 
       {/*The Book Club*/}
@@ -15,8 +15,8 @@ const Portfolio = () => {
         <div className="ml-4">
           <h5 style={{color: "white", textDecoration: "underline"}}>
             The Book Club
-            <a className="ml-4" href="https://the-book-club-2408.web.app/" style={{color: "#b30059"}}><FontAwesomeIcon icon={faExternalLinkAlt} /></a>
-            <a className="ml-4" href="https://youtu.be/PhmN60Yi89I?t=900" style={{color: "#b30059"}}><FontAwesomeIcon icon={faYoutube} /></a>
+            <a className="ml-4" href="https://the-book-club-2408.web.app/" style={{color: "#e87a2a"}}><FontAwesomeIcon icon={faExternalLinkAlt} /></a>
+            <a className="ml-4" href="https://youtu.be/PhmN60Yi89I?t=900" style={{color: "#e87a2a"}}><FontAwesomeIcon icon={faYoutube} /></a>
           </h5>
           <ul style={{width: "18rem", color: "white", marginLeft: "-1.2rem"}}>
             <li>Final project for the WBS Coding School</li>
@@ -33,7 +33,7 @@ const Portfolio = () => {
         <div className="ml-4">
           <h5 style={{width: "18rem", color: "white", textDecoration: "underline"}}>
             Simple
-            <a className="ml-4" href="https://github.com/Marvelous-Maddie/Simple" style={{color: "#b30059"}}><FontAwesomeIcon icon={faGithub} /></a>
+            <a className="ml-4" href="https://github.com/Marvelous-Maddie/Simple" style={{color: "#e87a2a"}}><FontAwesomeIcon icon={faGithub} /></a>
           </h5>
           <ul style={{width: "18rem", color: "white", marginLeft: "-1.2rem"}}>
             <li>Personal project (work in progress)</li>
@@ -49,8 +49,8 @@ const Portfolio = () => {
         <div className="ml-4">
           <h5 style={{width: "18rem", color: "white", textDecoration: "underline"}}>
             Recipes Blog
-            <a className="ml-4" href="https://github.com/Marvelous-Maddie/recipes_group4" style={{color: "#b30059"}}><FontAwesomeIcon icon={faGithub} /></a>
-            <a className="ml-4" href="https://how-not-to-cook-recipes.netlify.app/" style={{color: "#b30059"}}><FontAwesomeIcon icon={faExternalLinkAlt} /></a>
+            <a className="ml-4" href="https://github.com/Marvelous-Maddie/recipes_group4" style={{color: "#e87a2a"}}><FontAwesomeIcon icon={faGithub} /></a>
+            <a className="ml-4" href="https://how-not-to-cook-recipes.netlify.app/" style={{color: "#e87a2a"}}><FontAwesomeIcon icon={faExternalLinkAlt} /></a>
           </h5>
           <ul style={{width: "18rem", color: "white", marginLeft: "-1.2rem"}}>
             <li>Goup project (after 7 weeks of coding school)</li>
@@ -65,7 +65,7 @@ const Portfolio = () => {
         <div className="ml-4">
           <h5 style={{width: "18rem", color: "white", textDecoration: "underline"}}>
             MyToDoList
-            <a className="ml-4" href="https://github.com/Marvelous-Maddie/MyToDoList" style={{color: "#b30059"}}><FontAwesomeIcon icon={faGithub} /></a>
+            <a className="ml-4" href="https://github.com/Marvelous-Maddie/MyToDoList" style={{color: "#e87a2a"}}><FontAwesomeIcon icon={faGithub} /></a>
           </h5>
           <ul style={{width: "18rem", color: "white", marginLeft: "-1.2rem"}}>
             <li>Personal project</li>
@@ -80,7 +80,7 @@ const Portfolio = () => {
         <div className="ml-4">
           <h5 style={{width: "18rem", color: "white", textDecoration: "underline"}}>
             Video Player
-            <a className="ml-4" href="https://github.com/Marvelous-Maddie/WBS-video-player" style={{color: "#b30059"}}><FontAwesomeIcon icon={faGithub} /></a>
+            <a className="ml-4" href="https://github.com/Marvelous-Maddie/WBS-video-player" style={{color: "#e87a2a"}}><FontAwesomeIcon icon={faGithub} /></a>
           </h5>
           <ul style={{width: "18rem", color: "white", marginLeft: "-1.2rem"}}>
             <li>Group project (after 5 weeks of coding school)</li>
@@ -95,7 +95,7 @@ const Portfolio = () => {
         <div className="ml-4">
           <h5 style={{width: "18rem", color: "white", textDecoration: "underline"}}>
             ToDo List
-            <a className="ml-4" href="https://github.com/Marvelous-Maddie/WBS-todo" style={{color: "#b30059"}}><FontAwesomeIcon icon={faGithub} /></a>
+            <a className="ml-4" href="https://github.com/Marvelous-Maddie/WBS-todo" style={{color: "#e87a2a"}}><FontAwesomeIcon icon={faGithub} /></a>
             </h5>
           <ul style={{width: "18rem", color: "white", marginLeft: "-1.2rem"}}>
             <li>Group project (after 4 weeks of coding school)</li>
@@ -110,7 +110,7 @@ const Portfolio = () => {
         <div className="ml-4">
           <h5 style={{width: "18rem", color: "white", textDecoration: "underline"}}>
             #1 Cook Book
-            <a className="ml-4" href="https://github.com/Marvelous-Maddie/cookbook-group4" style={{color: "#b30059"}}><FontAwesomeIcon icon={faGithub} /></a>
+            <a className="ml-4" href="https://github.com/Marvelous-Maddie/cookbook-group4" style={{color: "#e87a2a"}}><FontAwesomeIcon icon={faGithub} /></a>
           </h5>
           <ul style={{width: "18rem", color: "white", marginLeft: "-1.2rem"}}>
             <li>Group project (after 2 weeks of coding school)</li>
