@@ -3,7 +3,7 @@ import React from 'react';
 const Education = () => {
   return (
   <div className="container-fluid p-5 shadow-sm" id="education" style={{backgroundColor: "lightgrey"}}>
-    <h2 className="text-center" style={{color: "#e87a2a"}}>Education</h2>
+    <h2 className="text-center" style={{color: "#b30059"}}>Education</h2>
 
 
     {/*WBS Coding School*/}

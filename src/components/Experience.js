@@ -3,7 +3,7 @@ import React from 'react';
 const Experience = () => {
   return (
   <div className="container-fluid p-5 shadow-sm" id="experience" style={{backgroundColor: "lightgrey"}}>
-    <h2 className="text-center" style={{color: "#e87a2a"}}>Work Experience</h2>
+    <h2 className="text-center" style={{color: "#b30059"}}>Work Experience</h2>
 
     {/*IT-Training*/}
     <dl className="row justify-content-center mx-5 mt-5 mb-2">
