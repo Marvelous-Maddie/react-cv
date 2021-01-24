@@ -21,7 +21,7 @@ const Portfolio = () => {
           <ul style={{width: "18rem", color: "white", marginLeft: "-1.2rem"}}>
             <li>Final project for the WBS Coding School</li>
             <li>Social network meets decentralised library</li>
-            <li>Tech Stack: Firebase, Node.js, Express.js, React.js, Material-UI</li>
+            <li>Tech Stack: Firebase, Express.js, React.js, Redux, Material-UI</li>
             <li>Features: Authentication, Image Upload, CRUD Booklist, CRUD Postings and Comments, Notifications</li>
           </ul>
         </div>

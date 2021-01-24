@@ -72,7 +72,7 @@ const Skills = () => {
       {/*MongoDB*/}
       <div className="d-inline-flex flex-column align-items-center m-5">
         <FontAwesomeIcon icon={faDatabase} size="4x" />
-        <h5 className="my-2">MongoDB</h5>
+        <h5 className="my-2">NoSQL</h5>
       </div>
 
       {/*Git/GitHub*/}
@@ -93,16 +93,16 @@ const Skills = () => {
         <h5 className="my-2">Presentation Skills</h5>
       </div>
 
-      {/*Training*/}
-      <div className="d-inline-flex flex-column align-items-center m-5">
-        <FontAwesomeIcon icon={faChalkboard} size="4x" />
-        <h5 className="my-2">Training</h5>
-      </div>
-
       {/*Writing*/}
       <div className="d-inline-flex flex-column align-items-center m-5">
         <FontAwesomeIcon icon={faPen} size="4x" />
         <h5 className="my-2">Writing Skills</h5>
+      </div>
+      
+      {/*Training*/}
+      <div className="d-inline-flex flex-column align-items-center m-5">
+        <FontAwesomeIcon icon={faChalkboard} size="4x" />
+        <h5 className="my-2">Training</h5>
       </div>
 
       {/*German*/}

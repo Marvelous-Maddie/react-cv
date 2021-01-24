@@ -19,7 +19,7 @@ const Education = () => {
           <ul>
             <li>4 months full-time training full stack app & web development</li>
             <li>Frontend: HTML5 | CSS3 | Javascript | React | Redux</li>
-            <li>Backend: Node.js | Express.js | APIs (REST, GraphQL) | Databases (SQL/NoSQL)</li>
+            <li>Backend: Node.js | Express.js | Restful API | Databases (SQL/NoSQL)</li>
             <li>Additional: UX/UI Fundamentals | SEO for developers | DevOps (Monitoring, CI/CD, Deployment) | Software Testing | Agile Methodologies (Scrum) | Project Management</li>
           </ul>
         </div>
@@ -29,7 +29,7 @@ const Education = () => {
     {/*PhD University Mainz*/}
     <dl className="row justify-content-center mx-5 my-2">
       <dt className="col-6">
-        <div className="d-flex justify-content-end" style={{fontWeight: "bold"}}>10/2014-09/2020</div>
+        <div className="d-flex justify-content-end" style={{fontWeight: "bold"}}>10/2014-11/2021</div>
       </dt>
       <dd className="col-6">
         <a className="d-flex justify-content-start" data-toggle="collapse" href="#collapseEducation2" style={{fontWeight: "bold", color: "black"}} role="button" aria-expanded="false" aria-controls="collapseEducation2">
