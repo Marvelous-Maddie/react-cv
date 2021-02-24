@@ -12,7 +12,7 @@ const About = () => {
         </p>
         <p>
         I've started a 15 week coding school and have become completely hooked. Why? Because it incorporates creativity and problem solving, and I appreciate every new challenge.
-        My specialties are learning new skills and programming languages quickly, problem solving and project management.
+        My specialties are learning new skills and programming languages quickly, problem solving and an agile mindset.
         So far, I’ve learned HTML, CSS, Bootstrap, Vanilla JS, React.js, Node.js, Express.js, SQL/NoSQL and Git/GitHub.
         I’m keen to grab onto any other programming languages, frameworks, principles, or methods to discover this whole new world of web development and to let my wings grow.
         </p>
