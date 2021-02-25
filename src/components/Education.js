@@ -6,14 +6,32 @@ const Education = () => {
     <h2 className="text-center" style={{color: "#b30059"}}>Education</h2>
 
 
-    {/*WBS Coding School*/}
+    {/*edX*/}
     <dl className="row justify-content-center mx-5 mt-5 mb-2">
+      <dt className="col-6">
+        <div className="d-flex justify-content-end" style={{fontWeight: "bold"}}>Since 02/2021</div>
+      </dt>
+      <dd className="col-6">
+        <a className="d-flex justify-content-start" data-toggle="collapse" href="#collapseEducation0" style={{fontWeight: "bold", color: "black"}} role="button" aria-expanded="false" aria-controls="collapseEducation1">
+          <span>Online courses on edX.org <small>(click to open)</small></span>
+        </a>
+        <div className="collapse" id="collapseEducation0">
+          <ul>
+            <li>Applied Scrum for Agile Project Management (4 week online course)</li>
+            <li>Building Modern Node.js Applications on AWS (6 week online course)</li>
+          </ul>
+        </div>
+      </dd>
+    </dl>
+    
+    {/*WBS Coding School*/}
+    <dl className="row justify-content-center mx-5 my-2">
       <dt className="col-6">
         <div className="d-flex justify-content-end" style={{fontWeight: "bold"}}>06/2020-09/2020</div>
       </dt>
       <dd className="col-6">
         <a className="d-flex justify-content-start" data-toggle="collapse" href="#collapseEducation1" style={{fontWeight: "bold", color: "black"}} role="button" aria-expanded="false" aria-controls="collapseEducation1">
-          <span>WBS Coding School, Berlin <small>(click to open)</small></span>
+          <span>WBS Coding School, Berlin</span>
         </a>
         <div className="collapse" id="collapseEducation1">
           <ul>
